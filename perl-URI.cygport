@@ -1,0 +1,11 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-URI"
+VERSION=1.60
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl URI modules"
+DESCRIPTION="This package contains the URI.pm module with friends.  The module
+implements the URI class.  Objects of this class represent Uniform Resource
+Identifier references as specified in RFC 2396 and updated by RFC 2732."
